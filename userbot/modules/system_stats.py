@@ -120,7 +120,7 @@ async def amireallyalive(alive):
             "Tenshion na lo veer ji zindha ga\n\n"
           
           
-            f"creator: {DEFAULTUSER}"
+            f"creator: {@justinguru777}"
             "`"
             )
 
